@@ -20,5 +20,7 @@ figcaption { text-align: center;
 #featured-property p {width: 800px;}
 
 #details { display: block;}
-#details div { float: left;}
+#details div { float: left;
+               width: ;
+}
 
